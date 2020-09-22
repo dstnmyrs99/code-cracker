@@ -1,0 +1,31 @@
+body{
+  background-color: #114B5F;
+  text-align: center;
+}
+h1{
+  margin: 75px 0 25px;
+  font-family: fantasy;
+}
+p{
+  margin: 5px;
+}
+.plus{
+  background-color: green;
+}
+.minus{
+  background-color: red;
+}
+.container{
+  margin: 15px auto;
+  width: 285px;
+  height: 100px;
+}
+.lock{
+  float: left;
+  /* margin: auto 15px; */
+  width: 20%;
+}
+.difficulty{
+  margin: 20px auto;
+  font-family: cursive;
+}
